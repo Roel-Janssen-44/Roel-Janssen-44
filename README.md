@@ -6,7 +6,7 @@ Mijn vaardigheden zijn:
 - **CMS systemen**: Shopify, Prismic.io
   
 Je kunt mij bereiken via:
-- **Telfoon**: 06 363 588 63
+- **Telefoon**: 06 363 588 63
 - **E-mail**: roeljanssen2002@gmail.com
 - **LinkedIn**: [Roel Janssen](https://www.linkedin.com/in/roel-janssen-7738441b1/)
 <!--
