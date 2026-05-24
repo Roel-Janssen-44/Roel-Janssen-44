@@ -1,4 +1,4 @@
-Ik ben Roel, een enthousiaste beginnende softwareontwikkelaar met een passie voor front-end development.
+Ik ben Roel, een enthousiaste softwareontwikkelaar met een passie voor front-end development.
 
 Mijn vaardigheden zijn: 
 - **Talen & Markup**: JavaScript, SQL, C#, HTML, CSS
